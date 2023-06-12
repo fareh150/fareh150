@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fareh</h1>
-<h3 align="center">A passionate developer from Perú</h3>
+<h3 align="center">A passionate developer from Perú, based in Madrid</h3>
 
 - 🌱 I’m currently learning **JavaScript, HTML5, CSS3**
 
