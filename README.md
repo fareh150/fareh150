@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fareh
 =============================================================================================================================
 
-A passionate developer from Perú
+A passionate developer
 --------------------------------
 
 * 🌍  I'm based in Madrid
 * ✉️  You can contact me at [fareh.rv@gmail.com](mailto:fareh.rv@gmail.com)
 * 🧠  I'm learning JavaScript, HTML5, CSS3
-* ⚡  I love travel 🛫, video games 🕹️, movies 🎬, FC Barcelona ⚽
+* ⚡  I love travel 🛫, video games 🕹️, movies 🎬
 
 ### Skills
 
