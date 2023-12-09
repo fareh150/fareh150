@@ -33,3 +33,5 @@ A passionate developer from Perú
 
 <a href="http://www.github.com/fareh150"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fareh150&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="fareh-romero" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/fareh-romero?trk=profile-badge">Fareh Romero Vilchez</a></div>
+              
