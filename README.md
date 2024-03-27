@@ -6,7 +6,7 @@ A passionate developer
 
 * 🌍  I'm based in Madrid
 * ✉️  You can contact me at <a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/fareh-romero?trk=profile-badge">LinkedIn</a>
-* 🧠  I'm learning Mongo DB
+* 🧠  I'm learning NestJS
 * ⚡  I love travel 🛫, video games 🕹️, movies 🎬
 
 ### Skills
